@@ -15,10 +15,10 @@ I'm Yusuf, I am sharing my projects in here. I usually using Python programming 
 </a>&ensp;<a href="https://www.kali.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1280px-Kali_Linux_2.0_wordmark.svg.png" alt="kali" width="60" height="40"/> 
 </a>&ensp;<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="40" height="40"/>
  </a>&ensp;<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a>  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
- </a>  <a href="https://code.visualstudio.com" target="_blank"> <img src="https://logojinni.com/image/logos/visual%20studio%20code-687.svg" alt="vscode" width="40" height="40"/> 
-</a>  <a href="https://www.mysql.com" target="_blank"> <img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" alt="mysql" width="40" height="40"/>
- </a>  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="ps" width="40" height="40"/> </a> 
+</a>&ensp;<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+ </a>&ensp;<a href="https://code.visualstudio.com" target="_blank"> <img src="https://logojinni.com/image/logos/visual%20studio%20code-687.svg" alt="vscode" width="40" height="40"/> 
+</a>&ensp;<a href="https://www.mysql.com" target="_blank"> <img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" alt="mysql" width="40" height="40"/>
+ </a>&ensp;<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="ps" width="40" height="40"/> </a> 
 </p>
 
 
