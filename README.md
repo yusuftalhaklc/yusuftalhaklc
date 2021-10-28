@@ -6,7 +6,7 @@ I'm Yusuf, im working on Android application developing. I am sharing my project
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=codception&color=green" alt="codception :: Profile Stats"></a>
 <a href="mailto:yusuftalhaklc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yusuftalhaklc@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/yusuftalhaklc/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yusuftalhaklc-blue?style=flat&logo=linkedin"></a>
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
