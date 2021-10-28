@@ -1,6 +1,6 @@
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-I'm Yusuf, im working on Android application developing. I am sharing my projects in here. I usually using Python programming language for Security Tools. 
+I'm Yusuf, I am sharing my projects in here. I usually using Python programming language for Security Tools. 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
