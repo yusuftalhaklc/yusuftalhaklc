@@ -12,7 +12,7 @@ I'm Yusuf, I am sharing my projects in here. I usually using Python programming 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
 </a> <a href="https://tryhackme.com/" target="_blank"> <img src="https://tryhackme.com/img/favicon.png" alt="tryhackme" width="40" height="40"/> 
-</a> <a href="https://www.kali.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1280px-Kali_Linux_2.0_wordmark.svg.png" alt="kali" width="40" height="40"/> 
+</a> <a href="https://www.kali.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1280px-Kali_Linux_2.0_wordmark.svg.png" alt="kali" width="60" height="40"/> 
 </a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="40" height="40"/>
  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
