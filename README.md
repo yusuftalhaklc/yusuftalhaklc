@@ -1,6 +1,6 @@
 <h1>Hi, Welcome To My Github Profile 👋 👋 👋</h1>
 
-I'm Yusuf, I am sharing my projects in here. I usually use Python programming language, Im good at C# and MySQL and Im freelancer on bionluk. 
+I'm Yusuf, I am sharing my projects in here. I usually use Python programming language, Im good at C# and SQL. 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
