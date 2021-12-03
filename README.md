@@ -1,6 +1,7 @@
 <h1>Hi, Welcome To My Github Profile 👋 👋 👋</h1>
 
-I'm Yusuf, I am sharing my projects in here. I usually use Python programming language, Im good at C# and SQL. 
+I'm Yusuf, I am sharing my projects in here. I am learning Java and Kotlin to write android apps. I can create any desktop application with C# and SQL. 
+I am improving my Python skills for data science
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
