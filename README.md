@@ -1,6 +1,6 @@
 <h1>Hi, Welcome To My Github Profile 👋 👋 👋</h1>
 
-I'm Yusuf, I am sharing my projects in here. I am interested in cyber security and mobile development.
+I'm Yusuf, I am sharing my projects in here. I am interested in  mobile development and cyber security.
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
