@@ -4,7 +4,6 @@ I'm Yusuf, I am sharing my projects in here. I am interested in cyber security a
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=codception&color=green" alt="codception :: Profile Stats"></a>
 <a href="mailto:yusuftalhaklc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yusuftalhaklc@gmail.com-blue?style=flat&logo=gmail"></a>
 
 </p>
