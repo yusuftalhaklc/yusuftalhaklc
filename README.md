@@ -5,6 +5,11 @@ I'm Yusuf, I am sharing my projects in here. I am interested in  mobile developm
 
 <p align="center">
 <a href="mailto:yusuftalhaklc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yusuftalhaklc@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="g.dev/yusuftalhaklc"><img alt="Google Developers" src="https://img.shields.io/badge/Google Devs-yusuftalhaklc-green?style=flat&logo=Google"></a>
+<a href="linkedin.com/in/yusuftalhaklcc"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-yusuftalhaklc-blue?style=flat&logo=linkedin"></a>
+<a href="stackoverflow.com/users/11102895"><img alt="StackOverFlow" src="https://img.shields.io/badge/StackOverFlow-yusuftalhaklc-orange?style=flat&logo=stackoverflow"></a>
+<a href="medium.com/@yusuftalhaklc"><img alt="Medium" src="https://img.shields.io/badge/Medium-@yusuftalhaklc-orange?style=flat&logo=medium"></a>
+ 
 
 </p>
 <h3 align="center">Languages and Tools:</h3>
