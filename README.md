@@ -4,11 +4,11 @@ I'm Yusuf, I am sharing my projects in here. I am interested in  mobile developm
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="mailto:yusuftalhaklc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yusuftalhaklc@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://g.dev/yusuftalhaklc"><img alt="Google Developers" src="https://img.shields.io/badge/Google Devs-yusuftalhaklc-green?style=flat&logo=Google"></a>
-<a href="https://linkedin.com/in/yusuftalhaklc"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-yusuftalhaklc-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/11102895"><img alt="StackOverFlow" src="https://img.shields.io/badge/StackOverFlow-yusuftalhaklc-orange?style=flat&logo=stackoverflow"></a>
-<a href="https://medium.com/@yusuftalhaklc"><img alt="Medium" src="https://img.shields.io/badge/Medium-@yusuftalhaklc-orange?style=flat&logo=medium"></a>
+<a target="_blank" href="mailto:yusuftalhaklc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yusuftalhaklc@gmail.com-blue?style=flat&logo=gmail"></a>
+<a target="_blank" href="https://g.dev/yusuftalhaklc"><img alt="Google Developers" src="https://img.shields.io/badge/Google Devs-yusuftalhaklc-green?style=flat&logo=Google"></a>
+<a target="_blank" href="https://linkedin.com/in/yusuftalhaklc"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-yusuftalhaklc-blue?style=flat&logo=linkedin"></a>
+<a target="_blank" href="https://stackoverflow.com/users/11102895"><img alt="StackOverFlow" src="https://img.shields.io/badge/StackOverFlow-yusuftalhaklc-orange?style=flat&logo=stackoverflow"></a>
+<a target="_blank" href="https://medium.com/@yusuftalhaklc"><img alt="Medium" src="https://img.shields.io/badge/Medium-@yusuftalhaklc-orange?style=flat&logo=medium"></a>
  
 
 </p>
