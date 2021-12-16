@@ -8,7 +8,8 @@ I'm Yusuf, I am sharing my projects in here. I am interested in  mobile developm
 <a target="_blank" href="https://g.dev/yusuftalhaklc"><img alt="Google Developers" src="https://img.shields.io/badge/Google Devs-yusuftalhaklc-green?style=flat&logo=Google"></a>
 <a target="_blank" href="https://linkedin.com/in/yusuftalhaklc"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-yusuftalhaklc-blue?style=flat&logo=linkedin"></a>
 <a target="_blank" href="https://stackoverflow.com/users/11102895"><img alt="StackOverFlow" src="https://img.shields.io/badge/StackOverFlow-yusuftalhaklc-orange?style=flat&logo=stackoverflow"></a>
-<a target="_blank" href="https://medium.com/@yusuftalhaklc"><img alt="Medium" src="https://img.shields.io/badge/Medium-@yusuftalhaklc-orange?style=flat&logo=medium"></a>
+<a target="_blank" href="https://medium.com/@yusuftalhaklc"><img alt="Medium" src="https://img.shields.io/badge/Medium-@yusuftalhaklc-orange?style=flat&logo=medium">
+ <a target="_blank" href="https://github.com/yusuftalhaklc"><img alt="Medium" src="https://img.shields.io/badge/Other%20Github-yusuftalhaklc-purple?style=flat&logo=github"></a>
  
 
 </p>
