@@ -31,8 +31,8 @@ I'm Yusuf, I am sharing my projects in here. I am interested in  mobile developm
 
 <h2 >My GitHub Stats :bar_chart:</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=codception&show_icons=true&theme=tokyonight" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codception&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=codception&show_icons=true&theme=tokyonight" height="130">&ensp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codception&layout=compact&theme=tokyonight" height="130">
   
 </p>
  
