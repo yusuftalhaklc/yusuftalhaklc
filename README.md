@@ -1,20 +1,21 @@
 <h1>Hi, Welcome To My Github Profile 👋 👋 👋</h1>
 
 I'm Yusuf, I am sharing my projects in here. I am interested in  mobile development and cyber security.
-<h3 align="center">Connect with me:</h3>
+<h3 >Connect with me:</h3>
 
-<p align="center">
-<a target="_blank" href="mailto:yusuftalhaklc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yusuftalhaklc@gmail.com-blue?style=flat&logo=gmail"></a><br>
-<a target="_blank" href="https://g.dev/yusuftalhaklc"><img alt="Google Developers" src="https://img.shields.io/badge/yusuftalhaklc-gray?style=flat&logo=Google"></a>
-<a target="_blank" href="https://linkedin.com/in/yusuftalhaklc"><img alt="Linkedin" src="https://img.shields.io/badge/yusuftalhaklc-gray?style=flat&logo=linkedin"></a>
-<a target="_blank" href="https://stackoverflow.com/users/11102895"><img alt="StackOverFlow" src="https://img.shields.io/badge/-yusuftalhaklc-gray?style=flat&logo=stackoverflow"></a>
-<a target="_blank" href="https://medium.com/@yusuftalhaklc"><img alt="Medium" src="https://img.shields.io/badge/-@yusuftalhaklc-gray?style=flat&logo=medium">
- <a target="_blank" href="https://github.com/yusuftalhaklc"><img alt="Medium" src="https://img.shields.io/badge/-yusuftalhaklc-gray?style=flat&logo=github"></a>
+<p >
+<a target="_blank" href="mailto:yusuftalhaklc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail"></a><br>
+<a target="_blank" href="https://g.dev/yusuftalhaklc"><img alt="Google Developers" src="https://img.shields.io/badge/Google Devs-gray?style=flat&logo=Google"></a><br>
+<a target="_blank" href="https://linkedin.com/in/yusuftalhaklc"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-gray?style=flat&logo=linkedin"></a><br>
+<a target="_blank" href="https://stackoverflow.com/users/11102895"><img alt="StackOverFlow" src="https://img.shields.io/badge/StackOverFlow-gray?style=flat&logo=stackoverflow"></a><br>
+<a target="_blank"  href="https://medium.com/@yusuftalhaklc"><img alt="Medium" src="https://img.shields.io/badge/Medium-gray?style=flat&logo=medium"></a><br>
+ <a target="_blank"  href="https://github.com/yusuftalhaklc"><img alt="github" src="https://img.shields.io/badge/Github-gray?style=flat&logo=github"></a>
  
 
 </p>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
+<h3 >Languages and Tools:</h3>
+<p ><a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="35" height="35"/>   &ensp;
+ <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 </a>&ensp;<a href="https://tryhackme.com/" target="_blank"> <img src="https://tryhackme.com/img/favicon.png" alt="android" width="40" height="40"/> 
  </a>&ensp;<a href="https://developer.android.com/" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" width="55" height="55"/> 
 </a>&ensp;<a href="https://www.kali.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1280px-Kali_Linux_2.0_wordmark.svg.png" alt="kali" width="60" height="40"/> 
@@ -28,8 +29,8 @@ I'm Yusuf, I am sharing my projects in here. I am interested in  mobile developm
 
 
 
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
-<p align="center">
+<h2 >My GitHub Stats :bar_chart:</h2>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=codception&show_icons=true&theme=tokyonight" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codception&layout=compact&theme=tokyonight" height="180">
   
