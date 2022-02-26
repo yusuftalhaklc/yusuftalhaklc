@@ -23,7 +23,6 @@
 ![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&style=flat-square&logo=Python&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&style=flat-square&logo=firebase)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&style=flat-square&logo=git&logoColor=white)
 
 
 
