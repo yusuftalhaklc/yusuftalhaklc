@@ -2,10 +2,10 @@
 
 - I'm Yusuf, I am interested in mobile development.
 - I'm a computer engineering student at Namık Kemal University.
-
+<img align="right" src="https://media.giphy.com/media/B0ifefWijDGktTd683/giphy.gif" width='300'/>
 <h3 >Connect with me: </h3>
 
-<img align="right" src="https://media.giphy.com/media/B0ifefWijDGktTd683/giphy.gif" width='300'/>
+
 
 
 <p >
