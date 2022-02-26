@@ -1,8 +1,12 @@
-<h1>Hi, Welcome To My Github Profile 👋 👋 👋</h1>
+<h1>Hi, Welcome To My Github Profile 👋 👋 👋 <img align="right" src="https://media.giphy.com/media/Y0zTGQsyQJewNiVJXa/giphy.gif" width='70'/></h1> 
 
-I'm Yusuf, I am sharing my projects in here. I am interested in  mobile development and cyber security.
-<h3 >Connect with me:</h3>
+I'm Yusuf, I am sharing my projects in here. I am interested in mobile development.
+
+<h3 >Connect with me: </h3>
+
 <img align="right" src="https://media.giphy.com/media/B0ifefWijDGktTd683/giphy.gif" width='300'/>
+
+
 <p >
 <a target="_blank" href="mailto:yusuftalhaklc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail"></a>
 <a target="_blank" href="https://g.dev/yusuftalhaklc"><img alt="Google Developers" src="https://img.shields.io/badge/Google Devs-gray?style=flat&logo=Google"></a>
