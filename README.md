@@ -1,7 +1,7 @@
 <h1>Hi, folks 👋 <img align="right" src="https://media.giphy.com/media/Y0zTGQsyQJewNiVJXa/giphy.gif" width='70'/></h1> 
 
 - I'm Yusuf, I am interested in mobile development.
-- I'm a computer engineering student at Namık Kemal University. (1/4)
+- I'm a computer engineering student at Namık Kemal University. (2/4)
 <img align="right" src="https://media.giphy.com/media/B0ifefWijDGktTd683/giphy.gif" width='300'/>
 <h3 >Connect with me: </h3>
 
