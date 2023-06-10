@@ -1,35 +1,70 @@
-<h1>Hi, folks 👋 <img align="right" src="https://media.giphy.com/media/Y0zTGQsyQJewNiVJXa/giphy.gif" width='70'/></h1> 
+<h1 align="left">hey there, I'm Yusuf 👋</h1>
 
-- I'm Yusuf, I am interested in mobile development.
-- I'm a computer engineering student at Namık Kemal University. (2/4)
-<img align="right" src="https://media.giphy.com/media/B0ifefWijDGktTd683/giphy.gif" width='300'/>
-<h3 >Connect with me: </h3>
+###
 
+<img align="right" height="200" src="https://media.giphy.com/media/FspLvJQlQACXu/giphy.gif"  />
 
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
-<p >
-<a target="_blank" href="mailto:yusuftalhaklc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail"></a>
-<a target="_blank" href="https://g.dev/yusuftalhaklc"><img alt="Google Developers" src="https://img.shields.io/badge/Google Devs-gray?style=flat&logo=Google"></a>
-<a target="_blank" href="https://linkedin.com/in/yusuftalhaklc"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-gray?style=flat&logo=linkedin"></a>
+###
 
- 
+<p align="left">- 🎒 I'm a computer engineering student at Namık Kemal University. (2/4)<br>- ⚡ I am involved in mobile application development and backend development.<br>- 🦿 I'm currently following a Backend roadmap.<br>- 📍  İstanbul, Türkiye</p>
 
-</p>
-<h3 >Languages and Tools:</h3>
+###
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&style=flat-square&logo=android-studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&style=flat-square&logo=Python&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&style=flat-square&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&style=flat-square&logo=firebase)
+<br clear="both">
 
+<h3 align="left">ℹ️ Contact with me :</h3>
 
+###
 
-<h2 >My GitHub Stats :bar_chart:</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yusuftalhaklc&show_icons=true&theme=tokyonight" height="130">&ensp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuftalhaklc&layout=compact&theme=tokyonight" height="130">
-  
-</p>
- 
+<div align="left">
+  <a href="mailto:yusuftalhaklc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/yusuftalhaklc/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="20" alt="android logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="20" alt="flutter logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="20" alt="python logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="20" alt="fastapi logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="20" alt="firebase logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="20" alt="postgresql logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="20" alt="postman logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yusuftalhaklc&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yusuftalhaklc.yusuftalhaklc&"  />
+</div>
+
+###
