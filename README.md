@@ -14,7 +14,6 @@
 
 ###
 
-<br clear="both">
 
 <h3 align="left">ℹ️ Contact with me :</h3>
 
