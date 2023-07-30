@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/gist/brudnak/6c21505423e4ff089ab704ec79b5a096/raw/b2d3dec32474b2121b179920734b259323a7c250/go.gif"  />
+<img align="right" height="170" src="https://raw.githubusercontent.com/gist/brudnak/6c21505423e4ff089ab704ec79b5a096/raw/b2d3dec32474b2121b179920734b259323a7c250/go.gif"  />
 
 ###
 
