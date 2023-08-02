@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🎒 I'm a computer engineering student at Namık Kemal University. (2/4)<br>- ⚡ I am involved in mobile application development and backend development.<br>- 🦿 I'm currently following a Backend roadmap.<br>- 📍  İstanbul, Türkiye</p>
+<p align="left">- 🎒 I'm a computer engineering student at Namık Kemal University. (3/4)<br>- ⚡ I am involved in mobile application development and backend development.<br>- 🦿 I'm currently following a Backend roadmap.<br>- 📍  İstanbul, Türkiye</p>
 
 ###
 
