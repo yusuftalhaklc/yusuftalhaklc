@@ -1,21 +1,21 @@
-<h1 align="left">hey there, I'm Yusuf 👋</h1>
+<h1 align="left">Hey there, I'm Yusuf 👋</h1>
 
 ###
 
-
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
-<p align="left">- 🎒 I'm a computer engineering student at Namık Kemal University. (4/4)<br>- ⚡ I am involved in mobile application development and backend development.<br>- 🦿 I'm currently following a Backend roadmap.<br>- 📍  İstanbul, Türkiye</p>
+<p align="left">
+- 🎓 I recently graduated from Namık Kemal University with a degree in Computer Engineering.<br>
+- 📱 I build Android apps and work on backend development.<br>
+- 🛠️ I'm currently focusing on backend technologies and improving my skills.<br>
+- 📍 Based in Istanbul, Türkiye.
+</p>
 
 ###
 
-
-<h3 align="left">ℹ️ Contact with me :</h3>
+<h3 align="left">📬 Contact Me</h3>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🧰 Languages & Tools</h3>
 
 ###
 
@@ -55,5 +55,3 @@
   <img width="1" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="20" alt="postman logo"  />
 </div>
-
-###
